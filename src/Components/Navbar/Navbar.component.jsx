@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <nav>
-      <div className="flex justify-center m-4 ">
+      <div className="flex justify-center p-4 bg-red-300 shadow-xl shadow-red-200">
         <div className="flex items-center ">
           <div className="w-[10%] ">
             <img
